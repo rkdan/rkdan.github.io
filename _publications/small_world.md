@@ -2,7 +2,7 @@
 title: "Nanowire networks: how does small-world character evolve with dimensionality?"
 collection: publications
 permalink: /publication/small_world
-excerpt: "'<br/><img src='/images/small_world.gif'"
+excerpt: "<br/><img src='/images/small_world.gif'>"
 date: 2021-05-6
 venue: 'Nanoscale Horizons'
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2021/nh/d0nh00693a'
